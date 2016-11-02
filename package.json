@@ -11,7 +11,6 @@
     "url": "git@github.com:firetandy/gulp-jsvar.git"
   },
   "author": "fire <652346044@qq.com>",
-  "license": "ISC",
   "dependencies": {
   	"object-assign": "*",
   	"through2": "*"
@@ -21,5 +20,14 @@
   		"name": "fire",
   		"email": "652346044@qq.com"
   	}
-  ]
+  ],
+
+  "keywords": [
+    "store.js"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/firetandy/gulp-jsvar/issues"
+  },
+  "homepage": "https://github.com/firetandy/gulp-jsvar"
 }
